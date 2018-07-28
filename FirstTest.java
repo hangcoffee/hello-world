@@ -1,1 +1,3 @@
-System.out.println("Fulk!")
+System.out.println("Fulk!");
+
+Date date = new Date();
